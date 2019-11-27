@@ -13,6 +13,7 @@
 		95F03BFA238E5E3900E8ED7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95F03BF9238E5E3900E8ED7E /* Assets.xcassets */; };
 		95F03BFD238E5E3900E8ED7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95F03BFC238E5E3900E8ED7E /* Preview Assets.xcassets */; };
 		95F03C00238E5E3900E8ED7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95F03BFE238E5E3900E8ED7E /* LaunchScreen.storyboard */; };
+		95F03C08238E61C700E8ED7E /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F03C07238E61C700E8ED7E /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95F03BFC238E5E3900E8ED7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95F03BFF238E5E3900E8ED7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95F03C01238E5E3900E8ED7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95F03C07238E61C700E8ED7E /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				95F03BFE238E5E3900E8ED7E /* LaunchScreen.storyboard */,
 				95F03C01238E5E3900E8ED7E /* Info.plist */,
 				95F03BFB238E5E3900E8ED7E /* Preview Content */,
+				95F03C07238E61C700E8ED7E /* ImagePicker.swift */,
 			);
 			path = InstafilterSwiftUI;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95F03BF4238E5E3800E8ED7E /* AppDelegate.swift in Sources */,
+				95F03C08238E61C700E8ED7E /* ImagePicker.swift in Sources */,
 				95F03BF6238E5E3800E8ED7E /* SceneDelegate.swift in Sources */,
 				95F03BF8238E5E3800E8ED7E /* ContentView.swift in Sources */,
 			);
