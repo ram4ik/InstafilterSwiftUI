@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95BE985F238FDC4600F2EE0F /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BE985E238FDC4600F2EE0F /* ImageSaver.swift */; };
 		95F03BF4238E5E3800E8ED7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F03BF3238E5E3800E8ED7E /* AppDelegate.swift */; };
 		95F03BF6238E5E3800E8ED7E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F03BF5238E5E3800E8ED7E /* SceneDelegate.swift */; };
 		95F03BF8238E5E3800E8ED7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F03BF7238E5E3800E8ED7E /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		95BE985E238FDC4600F2EE0F /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
 		95F03BF0238E5E3800E8ED7E /* InstafilterSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstafilterSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95F03BF3238E5E3800E8ED7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		95F03BF5238E5E3800E8ED7E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				95F03C01238E5E3900E8ED7E /* Info.plist */,
 				95F03BFB238E5E3900E8ED7E /* Preview Content */,
 				95F03C07238E61C700E8ED7E /* ImagePicker.swift */,
+				95BE985E238FDC4600F2EE0F /* ImageSaver.swift */,
 			);
 			path = InstafilterSwiftUI;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				95F03BF4238E5E3800E8ED7E /* AppDelegate.swift in Sources */,
 				95F03C08238E61C700E8ED7E /* ImagePicker.swift in Sources */,
+				95BE985F238FDC4600F2EE0F /* ImageSaver.swift in Sources */,
 				95F03BF6238E5E3800E8ED7E /* SceneDelegate.swift in Sources */,
 				95F03BF8238E5E3800E8ED7E /* ContentView.swift in Sources */,
 			);
